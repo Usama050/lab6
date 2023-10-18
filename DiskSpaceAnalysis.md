@@ -8,7 +8,7 @@ To check the available disk space on my operating system I used the following co
 > wmic logicaldisk get caption, freespace, size
 
 
-**Output of the command:**
+**Output:**
 
 
 ![Alt text](lab61.png)
@@ -21,5 +21,5 @@ To identify the process consuming the most RAM and CPU on my operating system, I
 2. In the Task Manager window, you will see several tabs, like CPU, Memory, Disk and Network.
 
 
-**Results:**
+**Output:**
 
