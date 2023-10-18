@@ -9,3 +9,5 @@ To check the available disk space on my operating system I used the following co
 
 
 **Output of the command:**
+
+![Alt text](lab61.png)
