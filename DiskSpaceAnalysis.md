@@ -30,3 +30,7 @@ In Task Manager we can Check the performance of CPU and RAM as well.
 
 
 ![Alt text](lab6cpu.png)
+
+
+
+![Alt text](lab6mem.png)
