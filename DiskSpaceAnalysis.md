@@ -23,3 +23,6 @@ To identify the process consuming the most RAM and CPU on my operating system, I
 
 **Output:**
 
+
+![Alt text](lab62.png)
+
