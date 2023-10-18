@@ -8,3 +8,8 @@ Traceroute is a network diagnostic tool that helps trace the path of network pac
 I will use the following command for Traceroute:
 
 >tracert google.com
+
+
+![Alt text](lab6tr.png)
+
+
