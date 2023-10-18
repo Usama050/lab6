@@ -13,14 +13,12 @@ To check the available disk space on my operating system I used the following co
 
 ![Alt text](lab61.png)
 
-2. Inodes Analysis:
+## 2. Inodes Analysis:
+
+
 To check the Inodes on my operating system I used the following command:
 
-> df -i
-
-To save the output in a Markdown file:
-
-> df -i > ~/Documents/Github/labs/lab6/DiskSpaceAnalysis.md
+> fsutil fsinfo ntfsinfo C:
 
 **Results:**
 
