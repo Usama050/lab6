@@ -20,7 +20,13 @@ To check the Inodes on my operating system I used the following command:
 
 > fsutil fsinfo ntfsinfo C:
 
-**Results:**
+**Output:**
+
+
+![Alt text](lab6in.png)
+
+
+Please note that the concept of inodes is specific to Unix-like file systems such as ext4, and Windows uses a different file system structure. The **fsutil** command provides information about the NTFS file system used in Windows, but it does not directly display the number of inodes. Instead, it provides information about clusters, which are the allocation units used by NTFS.
 
 
 
