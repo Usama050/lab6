@@ -29,3 +29,4 @@ To identify the process consuming the most RAM and CPU on my operating system, I
 In Task Manager we can Check the performance of CPU and RAM as well.
 
 
+![Alt text](lab6cpu.png)
