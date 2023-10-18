@@ -10,6 +10,8 @@ I used the following command for Traceroute:
 >tracert google.com
 
 
+**output**
+
 ![Alt text](lab6tr.png)
 
 
@@ -43,3 +45,13 @@ I used the following command for DIG:
 
 
 
+**output**
+
+
+![Alt text](lab6dig.png)
+
+
+
+### Insights and Observations of Dig:
+1. dig allows you to perform DNS lookups and verify if a domain name can be resolved to an IP address. It helps validate DNS settings and ensures that domain names are properly mapped to the intended IP addresses. 
+2. The dig command provides information about various DNS records associated with a domain name, such as A (IPv4 address), AAAA (IPv6 address), MX (mail exchange), CNAME (canonical name), NS (name server), and more. By using the dig command, you can retrieve specific DNS records and gain insights into the domain's DNS configuration.
